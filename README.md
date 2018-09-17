@@ -1,5 +1,6 @@
 # Sleek-Grapher
 ## Read this in raw text format (written before I knew how to use markdown)
+## Must have XQuartz installed to run
 *********************************
 * README: graph | project.cpp	*
 * Ryker McIntyre		*
