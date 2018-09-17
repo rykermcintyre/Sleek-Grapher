@@ -1,4 +1,5 @@
 # Sleek-Grapher
+## Read this in raw text format (written before I knew how to use markdown)
 *********************************
 * README: graph | project.cpp	*
 * Ryker McIntyre		*
